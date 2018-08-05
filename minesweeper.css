@@ -1,0 +1,37 @@
+button:focus {outline:0 !important;}
+
+#play {
+	background-color: #31C000;
+	color: white;
+}
+
+#end {
+	background-color: red;
+	color: white;
+}
+
+#solve {
+	background-color: blue;
+	color: white;
+}
+
+h1, body {
+	text-align: center;
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+}
+
+input {
+	width: 35px;
+}
+
+table {
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+td, tr, tbody, th, img, p, span {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
